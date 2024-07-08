@@ -1,0 +1,8 @@
+git clone https://github.com/yourusername/ts-party-summary.git
+cd ts-party-summary
+
+npm install
+
+npm run deploy
+
+ 
